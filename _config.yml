@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Mark Saddler"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Mark Saddler"
+description              : &description "Mark Saddler's personal webpage"
 url                      : https://msaddler.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "msaddler/msaddler.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mark Saddler"
-  avatar           : "msaddler_profile.png"
+  avatar           : "/images/msaddler_profile.png"
   bio              : "PhD Candidate in Brain and Cognitive Sciences at MIT"
   location         : "Cambridge, MA"
   employer         :
