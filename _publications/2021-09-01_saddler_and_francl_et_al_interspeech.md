@@ -6,5 +6,6 @@ excerpt: 'Contemporary speech enhancement predominantly relies on audio transfor
 date: 2021-09-01
 venue: 'Proceedings of Interspeech'
 paperurl: 'https://arxiv.org/abs/2011.10706'
-citation: 'Saddler M\*, Francl A\*, Feather J, Qian K, Zhang Y, McDermott JH (2021). &quot;Speech denoising with auditory models.&quot; <i>Proc. Interspeech</i> 2021, 2681-2685. [PDF](https://arxiv.org/pdf/2011.10706.pdf).'
+citation: 'Saddler M, Francl A, Feather J, Qian K, Zhang Y, McDermott JH (2021). &quot;Speech denoising with auditory models.&quot; <i>Proc. Interspeech</i> 2021, 2681-2685.'
 ---
+[Download PDF](https://arxiv.org/pdf/2011.10706.pdf). Saddler M and Francl A are co-first authors.

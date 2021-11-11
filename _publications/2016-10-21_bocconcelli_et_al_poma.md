@@ -6,5 +6,6 @@ excerpt: 'This investigation set out to obtain data on the ecology, foraging and
 date: 2016-10-21
 venue: 'Proceedings of Meetings on Acoustics'
 paperurl: 'https://asa.scitation.org/doi/10.1121/2.0000269'
-citation: 'Bocconcelli A, Hickmott L, Chiang G, Bahamonde P, Howes G, Landea-Briones R, Caruso F, Saddler M, Sayigh L (2016). &quot;DTAG studies of blue whales (<i>Balaenoptera musculus</i>) in the Gulf of Corcovado.&quot; <i>Proceedings of Meetings on Acoustics</i> 27, 040002. [PDF](http://msaddler.github.io/files/bocconcelli_et_al_2016_poma.pdf).'
+citation: 'Bocconcelli A, Hickmott L, Chiang G, Bahamonde P, Howes G, Landea-Briones R, Caruso F, Saddler M, Sayigh L (2016). &quot;DTAG studies of blue whales (<i>Balaenoptera musculus</i>) in the Gulf of Corcovado.&quot; <i>Proceedings of Meetings on Acoustics</i> 27, 040002.'
 ---
+[Download PDF](http://msaddler.github.io/files/bocconcelli_et_al_2016_poma.pdf).
