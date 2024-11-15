@@ -6,6 +6,6 @@ excerpt: 'Vocal behavior of blue whales (<i>Balaenoptera musculus</i>) in the Gu
 date: 2017-11-15
 venue: 'Journal of Experimental Biology'
 paperurl: 'https://journals.biologists.com/jeb/article/220/22/4119/18884'
-citation: 'Saddler M, Bocconcelli A, Hickmott L, Chiang G, Landea-Briones R, Bahamonde P, Howes G, Segre P, Sayigh (2017). &quot;Characterizing Chilean blue whale vocalizations with DTAGs: a test of using tag accelerometers for caller identification.&quot; <i>Journal of Experimental Biology</i> 220, 4119-4129.'
+citation: 'Saddler MR, Bocconcelli A, Hickmott L, Chiang G, Landea-Briones R, Bahamonde P, Howes G, Segre P, Sayigh (2017). &quot;Characterizing Chilean blue whale vocalizations with DTAGs: a test of using tag accelerometers for caller identification.&quot; <i>Journal of Experimental Biology</i> 220, 4119-4129.'
 ---
 [Download PDF](http://msaddler.github.io/files/saddler_et_al_2017_jexpbiol.pdf).
