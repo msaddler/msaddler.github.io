@@ -6,6 +6,6 @@ excerpt: 'Perception is thought to be shaped by the environments for which organ
 date: 2021-12-31
 venue: 'Nature Communications'
 paperurl: 'https://www.nature.com/articles/s41467-021-27366-6'
-citation: 'Saddler M, Gonzalez R, McDermott JH (in press). &quot;Deep neural network models reveal interplay of peripheral coding and stimulus statistics in pitch perception.&quot; <i>Nature Communications</i>.'
+citation: 'Saddler MR, Gonzalez R, McDermott JH (2021). &quot;Deep neural network models reveal interplay of peripheral coding and stimulus statistics in pitch perception.&quot; <i>Nature Communications</i>.'
 ---
-[Download PDF](https://www.nature.com/articles/s41467-021-27366-6.pdf). Saddler M and Gonzalez R are co-first authors.
+[Download PDF](https://www.nature.com/articles/s41467-021-27366-6.pdf).
