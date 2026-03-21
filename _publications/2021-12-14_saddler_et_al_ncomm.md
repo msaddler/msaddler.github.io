@@ -8,4 +8,4 @@ venue: 'Nature Communications'
 paperurl: 'https://www.nature.com/articles/s41467-021-27366-6'
 citation: 'Saddler MR, Gonzalez R, McDermott JH (2021). &quot;Deep neural network models reveal interplay of peripheral coding and stimulus statistics in pitch perception.&quot; <i>Nature Communications</i>.'
 ---
-[Download PDF](https://www.nature.com/articles/s41467-021-27366-6.pdf).
+[Download PDF](https://www.nature.com/articles/s41467-021-27366-6.pdf)
