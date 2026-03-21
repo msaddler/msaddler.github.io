@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mark Saddler"
+title                    : "Mark R. Saddler"
 title_separator          : "-"
-name                     : &name "Mark Saddler"
+name                     : &name "Mark R. Saddler"
 description              : &description "Mark Saddler's personal webpage"
 url                      : https://msaddler.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mark Saddler"
+  name             : "Mark R. Saddler"
   avatar           : "msaddler_profile.jpg"
-  bio              : "PhD Candidate in Brain and Cognitive Sciences at MIT"
-  location         : "Cambridge, MA"
+  bio              : "Postdoc - Hearing Systems, DTU Health Tech"
+  location         : "Copenhagen, Denmark"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    :  # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=CIYspUEAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

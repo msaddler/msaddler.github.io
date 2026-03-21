@@ -6,6 +6,6 @@ excerpt: 'Neurons encode information in the timing of their spikes in addition t
 date: 2024-12-04
 venue: 'Nature Communications'
 paperurl: 'https://doi.org/10.1038/s41467-024-54700-5'
-citation: 'Saddler MR, McDermott JH (2024). &quot;Models optimized for real-world tasks reveal the task-dependent necessity of precise temporal coding in hearing.&quot; <i>Nature Communications</i>.'
+citation: 'MR Saddler, JH McDermott (2024). &quot;Models optimized for real-world tasks reveal the task-dependent necessity of precise temporal coding in hearing.&quot; <i>Nature Communications</i>.'
 ---
 [Download PDF](https://www.nature.com/articles/s41467-024-54700-5.pdf)

@@ -6,6 +6,6 @@ excerpt: "Computational models that predict the real-world hearing abilities of 
 date: 2025-08-22
 venue: 'Proceedings of the 6th Clarity Workshop on Improving Speech-in-Noise for Hearing Devices'
 paperurl: 'https://doi.org/10.21437/Clarity.2025-3'
-citation: 'Saddler MR, Dau T, McDermott JH (2025). &quot;Towards individualized models of hearing-impaired speech perception.&quot; <i>Proc. ISCA Clarity-2025</i>.'
+citation: 'MR Saddler, T Dau, JH McDermott (2025). &quot;Towards individualized models of hearing-impaired speech perception.&quot; <i>Proc. ISCA Clarity-2025</i>.'
 ---
 [Download PDF](https://www.isca-archive.org/clarity_2025/saddler25_clarity.pdf)
