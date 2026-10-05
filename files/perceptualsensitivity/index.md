@@ -1,5 +1,5 @@
 ---
 layout: none
 permalink: /files/perceptualsensitivity/
-redirect_to: https://msaddler.github.io/files/saddler_dau_mcdermott_2026_biorxiv.pdf
+redirect_to: https://doi.org/10.64898/2026.09.28.755158
 ---
